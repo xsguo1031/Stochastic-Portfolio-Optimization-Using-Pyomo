@@ -1,2 +1,2 @@
 # Stochastic-Portfolio-Optimization-Using-Pyomo
-This folder contains the pyomo code to do the two-stage stochastic portfolio optimization on a rolling basis in my research. 
+This folder contains a part of pyomo code in my research. Three files are used to construct scenarios, build and solve the two-stage stochastic portfolio optimization on a rolling basis, respectively.  
